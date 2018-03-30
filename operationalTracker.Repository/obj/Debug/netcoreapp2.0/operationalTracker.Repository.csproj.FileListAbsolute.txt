@@ -1,0 +1,11 @@
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\bin\Debug\netcoreapp2.0\operationalTracker.Repository.deps.json
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\bin\Debug\netcoreapp2.0\operationalTracker.Repository.dll
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\bin\Debug\netcoreapp2.0\operationalTracker.Entities.dll
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\bin\Debug\netcoreapp2.0\operationalTracker.Entities.pdb
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\obj\Debug\netcoreapp2.0\operationalTracker.Repository.csprojResolveAssemblyReference.cache
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\obj\Debug\netcoreapp2.0\operationalTracker.Repository.csproj.CoreCompileInputs.cache
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\obj\Debug\netcoreapp2.0\operationalTracker.Repository.AssemblyInfoInputs.cache
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\obj\Debug\netcoreapp2.0\operationalTracker.Repository.AssemblyInfo.cs
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\bin\Debug\netcoreapp2.0\operationalTracker.Repository.pdb
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\obj\Debug\netcoreapp2.0\operationalTracker.Repository.dll
+D:\Users\ARoy3\source\repos\operationalTracker.Web\operationalTracker.Repository\obj\Debug\netcoreapp2.0\operationalTracker.Repository.pdb
